@@ -10,11 +10,11 @@ Clara Pag
 Lino Jorzick
 
 @Description:
-A VB.NET app which simulate a ìHouse Automation systemî with 4 control panel interfaces. 
+A VB.NET app which simulate a ‚ÄúHouse Automation system‚Äù with 4 control panel interfaces. 
 We focused on the usability and the functionality of the interface 
 and not on the design, and as the test scenarios with real random 
 users demonstrated, our App fulfilled all the characteristics of a 
-good MMI because everyone could use it easily without a previous knowledge.
+good Man-Machine Interface because everyone could use it easily without a previous knowledge.
 
 
 Code is licensed under a Creative Commons 
